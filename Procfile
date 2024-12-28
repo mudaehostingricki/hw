@@ -1,1 +1,1 @@
-Procfile  python hello-world.py
+web: python hello-world.py
